@@ -10,3 +10,4 @@ Notes and usage details for devfinder-app.
 - link the usage section
 - fix a small wording issue
 - fix a small wording issue
+- add a note about the defaults
