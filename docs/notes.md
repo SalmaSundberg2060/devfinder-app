@@ -22,3 +22,4 @@ Notes and usage details for devfinder-app.
 - add a note about the defaults
 - clarify the setup steps
 - link the usage section
+- link the usage section
