@@ -52,3 +52,4 @@ Notes and usage details for devfinder-app.
 - link the usage section
 - link the usage section
 - clarify the setup steps
+- add a note about the defaults
